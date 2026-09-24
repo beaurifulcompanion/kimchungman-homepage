@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
+  <title id="title">십자가가 있는 교회</title>
+  <desc id="desc">저녁 햇살 아래 언덕 위에 선 작은 교회와 십자가</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#dce8e3"/><stop offset="1" stop-color="#f4e5cb"/></linearGradient>
+    <linearGradient id="hill" x2="0" y2="1"><stop stop-color="#8da995"/><stop offset="1" stop-color="#536f5d"/></linearGradient>
+    <linearGradient id="wall" x2="1" y2="1"><stop stop-color="#fffdf8"/><stop offset="1" stop-color="#e8e2d5"/></linearGradient>
+  </defs>
+  <rect width="720" height="900" fill="url(#sky)"/>
+  <circle cx="540" cy="190" r="76" fill="#f8f0df" opacity=".9"/>
+  <path d="M0 570Q170 495 330 555t390-4v349H0Z" fill="#bac9b7" opacity=".62"/>
+  <path d="M0 670Q190 540 370 635t350-22v287H0Z" fill="url(#hill)"/>
+  <path d="M142 900q68-160 126-207 77-62 172 0 65 44 145 207" fill="#6d886f" opacity=".7"/>
+  <path d="M207 483 360 357l153 126v228H207Z" fill="url(#wall)"/>
+  <path d="M180 491 360 340l180 151-19 23-161-135-161 135Z" fill="#69796f"/>
+  <path d="M323 365V229l37-61 37 61v136Z" fill="#f5f1e7"/>
+  <path d="M309 238 360 147l51 91-51-21Z" fill="#596f62"/>
+  <path d="M360 146v-72" stroke="#45594d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M337 96h46" stroke="#45594d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M340 253q20-31 40 0v45h-40Z" fill="#8da9a1"/>
+  <path d="M237 500 360 398l123 102" fill="none" stroke="#d6cfc1" stroke-width="5"/>
+  <path d="M333 711V580q0-29 27-29t27 29v131Z" fill="#50675a"/>
+  <path d="M252 563q25-31 50 0v53h-50Zm166 0q25-31 50 0v53h-50Z" fill="#9bb4aa"/>
+  <path d="M0 790q174-67 332-14 176 59 388-11v135H0Z" fill="#465f4e" opacity=".55"/>
+  <g fill="#eee7d6" opacity=".8"><circle cx="111" cy="713" r="3"/><circle cx="574" cy="658" r="3"/><circle cx="600" cy="734" r="2"/><circle cx="150" cy="785" r="2"/></g>
+</svg>
